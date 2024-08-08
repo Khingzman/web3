@@ -1,2 +1,2 @@
 # web3
-Web3 projects
+this repository, contains web3 projects and deploys.
